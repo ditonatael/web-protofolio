@@ -8,10 +8,10 @@ export default function Navbar() {
       <div className="lg:container md:mx-auto w-full text-white flex justify-end items-center h-full">
         <div className="hidden pr-10 lg:pr-0 md:flex gap-7 text-lg font-semibold">
           <Link href="#skill" scroll={true}>
-            <span className="hover:cursor-pointer">Skills</span>
+            <span className="hover:cursor-pointer text-white">Skills</span>
           </Link>
           <Link href="#project" scroll={true}>
-            <span className="hover:cursor-pointer">Projects</span>
+            <span className="hover:cursor-pointer text-white">Projects</span>
           </Link>
         </div>
       </div>

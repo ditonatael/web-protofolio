@@ -1,20 +1,13 @@
-import Image from "next/image";
-import IntroductionSection from "~/components/introduction";
-import Roomer from "~/components/Roomer";
-import Efnote from "~/components/Efnote";
-import Skills from "~/components/skills";
+import HeroSection from "~/components/Hero";
+import AboutAndProject from "~/components/AboutAndProject";
+import ServiceSection from "~/components/ServiceSection";
 
 export default function Home() {
   return (
-    <div className="z-0">
-      <IntroductionSection />
-      <div id="project">
-        <Roomer />
-        <Efnote />
-      </div>
-      <div id="skill">
-        <Skills />
-      </div>
+    <div className="pt-48 md:pt-0">
+      <HeroSection />
+      <AboutAndProject />
+      <ServiceSection />
     </div>
   );
 }

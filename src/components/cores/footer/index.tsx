@@ -9,7 +9,7 @@ export default function Footer() {
       <div className="container px-6 md:mx-auto flex items-center h-full">
         <div className="flex flex-col gap-5">
           <div className="font-bold text-3xl md:text-5xl">
-            Let's Work Together
+            Let&apos;s Work Together
           </div>
           <div className=" text-lg md:text-3xl font-semibold">
             Get free consultation now!

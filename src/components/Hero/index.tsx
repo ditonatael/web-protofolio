@@ -8,7 +8,7 @@ export default function HeroSection() {
         Hi, My name is Dito 👋
       </div>
       <div className="text-center font-bold text-5xl md:text-7xl pt-3">
-        I'm a Fullstack <br /> Website Developer
+        I&apos;m a Fullstack <br /> Website Developer
       </div>
       <div className="text-2xl text-center pt-2">
         Ready to help your business grow with the power of technology.

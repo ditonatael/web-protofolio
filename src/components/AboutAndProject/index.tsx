@@ -11,10 +11,10 @@ export default function AboutAndProject() {
               About Me
             </div>
             <div className="text-left pt-6 text-lg">
-              I'm a FullStack Web Developer who began my journey at Purwadhika
-              in January 2024. I specialize in creating responsive web
-              applications using front-end (HTML, CSS, JavaScript) and back-end
-              (Node.js, Express.js) technologies.
+              I&apos;m a FullStack Web Developer who began my journey at
+              Purwadhika in January 2024. I specialize in creating responsive
+              web applications using front-end (HTML, CSS, JavaScript) and
+              back-end (Node.js, Express.js) technologies.
             </div>
             <div className="text-left font-semibold text-xl pt-6">
               Dedicated to learning and collaboration, I stay current to deliver

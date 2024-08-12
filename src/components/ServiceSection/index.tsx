@@ -15,7 +15,8 @@ export default function ServiceSection() {
             Company Profile
           </div>
           <div className="text-left">
-            Perfect for showcase your company to the world.
+            Crafting impactful company profiles that tell your brand&apos;s
+            story
           </div>
           <div>
             <Link
@@ -32,7 +33,8 @@ export default function ServiceSection() {
         <div className="shadow-lg shadow-zinc-300 rounded-lg w-full lg:w-96 h-56 bg-zinc-50 flex flex-col justify-center items-start gap-3 px-5">
           <div className="text-3xl font-bold text-zinc-800">Landing Page</div>
           <div className="text-left">
-            Get more sales now with stunning and converting landing page.
+            Designing high-converting landing pages that capture attention and
+            drive action.
           </div>
           <div>
             <Link
@@ -49,7 +51,8 @@ export default function ServiceSection() {
         <div className="shadow-lg shadow-zinc-300 rounded-lg w-full lg:w-96 h-56 bg-zinc-50 flex flex-col justify-center items-start gap-3 px-5">
           <div className="text-3xl font-bold text-zinc-800">Custom Service</div>
           <div className="text-left">
-            Need custom service for your business? Lets talk now.
+            Delivering tailored web solutions that meet your unique business
+            needs.
           </div>
           <div>
             <Link

@@ -57,7 +57,7 @@ export default function AboutAndProject() {
             </div>
           </div>
           <div className="pt-10">
-            <Link href={"https://github.com/ditonatael"}>
+            <Link href={"https://github.com/ditonatael"} target="_blank">
               <button className="border-2 border-black hover:bg-black hover:text-white w-44 h-10 rounded-full">
                 Check Github Repo
               </button>

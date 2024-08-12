@@ -23,6 +23,7 @@ export default function ServiceSection() {
               href={
                 "https://api.whatsapp.com/send/?phone=6289668247663&text&type=phone_number&app_absent=0"
               }
+              target="_blank"
             >
               <button className="border-2 border-black hover:bg-black hover:text-white w-40 h-10 rounded-full text-sm">
                 Free Consultation
@@ -41,6 +42,7 @@ export default function ServiceSection() {
               href={
                 "https://api.whatsapp.com/send/?phone=6289668247663&text&type=phone_number&app_absent=0"
               }
+              target="_blank"
             >
               <button className="border-2 border-black hover:bg-black hover:text-white w-40 h-10 rounded-full text-sm">
                 Free Consultation
@@ -59,6 +61,7 @@ export default function ServiceSection() {
               href={
                 "https://api.whatsapp.com/send/?phone=6289668247663&text&type=phone_number&app_absent=0"
               }
+              target="_blank"
             >
               <button className="border-2 border-black hover:bg-black hover:text-white w-40 h-10 rounded-full text-sm">
                 Free Consultation

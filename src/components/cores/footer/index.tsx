@@ -19,18 +19,20 @@ export default function Footer() {
               href={
                 "https://api.whatsapp.com/send/?phone=6289668247663&text&type=phone_number&app_absent=0"
               }
+              target="_blank"
             >
               <div className="size-12 bg-white rounded-full flex items-center justify-center text-black text-2xl">
                 <FaWhatsapp />
               </div>
             </Link>
-            <Link href={"https://github.com/ditonatael"}>
+            <Link href={"https://github.com/ditonatael"} target="_blank">
               <div className="size-12 bg-white rounded-full flex items-center justify-center text-black text-2xl">
                 <FaGithub />
               </div>
             </Link>
             <Link
               href={"https://www.linkedin.com/in/handito-natael-83268028b/"}
+              target="_blank"
             >
               <div className="size-12 bg-white rounded-full flex items-center justify-center text-black text-2xl">
                 <FaLinkedinIn />

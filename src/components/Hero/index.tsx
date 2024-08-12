@@ -18,6 +18,7 @@ export default function HeroSection() {
           href={
             "https://api.whatsapp.com/send/?phone=6289668247663&text&type=phone_number&app_absent=0"
           }
+          target="_blank"
         >
           <button className="bg-black text-white hover:bg-white hover:text-black hover:border-2 border-black w-36 h-10 rounded-full">
             Contact Me
